@@ -1,0 +1,23 @@
+{
+	"name": "cp1251-utf8",
+	"version": "0.0.1",
+	"description": "Converts string from windows-1251 (cp1251) to unicode (utf8).",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/unlight/cp1251-utf8.git"
+	},
+	"keywords": [
+		"cp1251",
+		"unicode",
+		"utf8",
+		"windows-1251"
+	],
+	"author": "S",
+	"license": "X.Net",
+	"bugs": {
+		"url": "https://github.com/unlight/cp1251-utf8/issues"
+	},
+	"homepage": "https://github.com/unlight/cp1251-utf8"
+}
